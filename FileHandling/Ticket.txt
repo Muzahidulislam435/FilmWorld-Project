@@ -1,0 +1,7 @@
+
+JavaFlix:
+Customer Name: Muzahidul Islam
+PhoneNumber : 01777777777
+Movie :  The Shawshank Redemption
+Timing : 2| Afternoon: 3:00 PM
+Price : $10
